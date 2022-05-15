@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debbiegarth
-- 👀 I’m interested in cyber security and public interest leaks
+- 👀 I’m interested in helping people and open source research
 - 🌱 I’m currently learning how to use github
-- 💞️ I’m looking to collaborate on the #criminaljusticehub
+- 💞️ I’m looking to collaborate on public interest disclosures and open source investigations
 - 📫 How to reach me - debbie.garth@conviction.org.uk
 
 <!---
